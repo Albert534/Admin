@@ -1,0 +1,13 @@
+C:\Users\ASUS VivoBook\source\repos\MainGUI\MainGUI\bin\Debug\MainGUI.exe.config
+C:\Users\ASUS VivoBook\source\repos\MainGUI\MainGUI\bin\Debug\MainGUI.exe
+C:\Users\ASUS VivoBook\source\repos\MainGUI\MainGUI\bin\Debug\MainGUI.pdb
+C:\Users\ASUS VivoBook\source\repos\MainGUI\MainGUI\obj\Debug\MainGUI.Form1.resources
+C:\Users\ASUS VivoBook\source\repos\MainGUI\MainGUI\obj\Debug\MainGUI.Properties.Resources.resources
+C:\Users\ASUS VivoBook\source\repos\MainGUI\MainGUI\obj\Debug\MainGUI.csproj.GenerateResource.cache
+C:\Users\ASUS VivoBook\source\repos\MainGUI\MainGUI\obj\Debug\MainGUI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\source\repos\MainGUI\MainGUI\obj\Debug\MainGUI.exe
+C:\Users\ASUS VivoBook\source\repos\MainGUI\MainGUI\obj\Debug\MainGUI.pdb
+C:\Users\ASUS VivoBook\source\repos\MainGUI\MainGUI\obj\Debug\MainGUI.Form2.resources
+C:\Users\ASUS VivoBook\source\repos\MainGUI\MainGUI\obj\Debug\MainGUI.Menu.resources
+C:\Users\ASUS VivoBook\source\repos\MainGUI\MainGUI\obj\Debug\MainGUI.Letter.resources
+C:\Users\ASUS VivoBook\source\repos\MainGUI\MainGUI\obj\Debug\MainGUI.Form3.resources
